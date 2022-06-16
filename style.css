@@ -1,28 +1,26 @@
 body{
     background-color: maroon;
 }
-
-
 .r{
     position: relative;
     font-size: 30px;
     font-family: arial black;
-    bottom: 250px;
-    left: 700px;
+    bottom: 40px;
+    right: 300px;
 }
 .a{
    font-size: 30px; 
    position: relative;
-   bottom: 180px;
+   bottom: 30px;
    font-family: arial black;
-   left: 50px;
+   right: 1000px;
 }
 .c{
    font-size: 30px; 
    position: relative;
-   bottom: 105px;
+   bottom: 30px;
+   right: 500px;
    font-family: arial black;
-   left: 400px;
 }
 .m{
     font-family: Trebuchet MS;
@@ -74,4 +72,8 @@ body{
 .jo{
     position: relative;
     bottom: 10px;
+}
+.ka{
+    position: relative;
+    top: 250px;
 }
