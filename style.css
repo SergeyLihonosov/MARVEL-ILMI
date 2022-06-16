@@ -1,0 +1,77 @@
+body{
+    background-color: maroon;
+}
+
+
+.r{
+    position: relative;
+    font-size: 30px;
+    font-family: arial black;
+    bottom: 250px;
+    left: 700px;
+}
+.a{
+   font-size: 30px; 
+   position: relative;
+   bottom: 180px;
+   font-family: arial black;
+   left: 50px;
+}
+.c{
+   font-size: 30px; 
+   position: relative;
+   bottom: 105px;
+   font-family: arial black;
+   left: 400px;
+}
+.m{
+    font-family: Trebuchet MS;
+    color: lime;
+    position: relative;
+    bottom: 1000px;
+}
+.elka{
+    position: relative;
+    bottom: 250px;
+}
+.p{
+    position: relative;
+    bottom: 250px;
+    right: 10px;
+} 
+.vb{
+    font-family: Arial black;
+    position: relative;
+    bottom: 899px;
+}
+.vm{
+    font-family: Arial black;
+    position: relative;
+    bottom:980px;
+    left: 430px;
+}
+.pl{
+    position: relative;
+    left: 350px;
+}
+.fot{
+    position: relative;
+    bottom: 880px;
+    left: 837px;
+} 
+.jy{
+    font-family: Arial black;
+    position: relative;
+    bottom:1025px;
+    left: 840px;
+}
+.fa{
+    font-size: 40px;
+    position: relative;
+    bottom: 1000px;
+    font-family: Comic Sans MS;
+}
+.jo{
+    position: relative;
+    bottom: 1000px;
+}
