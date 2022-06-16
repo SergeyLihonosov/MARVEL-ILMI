@@ -28,7 +28,7 @@ body{
     font-family: Trebuchet MS;
     color: lime;
     position: relative;
-    bottom: 1000px;
+    bottom: 1020px;
 }
 .elka{
     position: relative;
@@ -42,12 +42,12 @@ body{
 .vb{
     font-family: Arial black;
     position: relative;
-    bottom: 899px;
+    bottom: 280px;
 }
 .vm{
     font-family: Arial black;
     position: relative;
-    bottom:980px;
+    bottom: 350px;
     left: 430px;
 }
 .pl{
@@ -56,22 +56,22 @@ body{
 }
 .fot{
     position: relative;
-    bottom: 880px;
-    left: 837px;
+    bottom: 250px;
+    right:15px;
 } 
 .jy{
     font-family: Arial black;
     position: relative;
-    bottom:1025px;
+    bottom:400px;
     left: 840px;
 }
 .fa{
     font-size: 40px;
     position: relative;
-    bottom: 1000px;
+    bottom: 300px;
     font-family: Comic Sans MS;
 }
 .jo{
     position: relative;
-    bottom: 1000px;
+    bottom: 10px;
 }
